@@ -29,23 +29,8 @@ At the same time, background music plays using **Pygame**, creating a unique, sy
 
 Before running the program, ensure **Python 3.x** is installed.
 
-### Step 1 — Clone the Repository
+### Clone the Repository
 
 ```bash
-git clone ttps://github.com/Soumyajit10092005/Image_To_ASCII_Image_Converter.git
+git clone https://github.com/Soumyajit10092005/Image_To_ASCII_Image_Converter.git
 cd Image_To_ASCII_Image_Converter
-
-## 🪜 Step 2 — Install Required Packages
-
-Before running the project, make sure you have all the necessary dependencies installed.  
-This project requires the following Python libraries:
-
-- **Pillow** → For image processing and enhancement  
-- **Pygame** → For background music and sound playback
-
-### 🧩 Installation Command
-
-Use the following command to install both packages at once:
-
-```bash
-pip install pillow pygame
